@@ -30,12 +30,17 @@ Chat app is a text communication platform similar to facebook messenger.
 
 ![Alt text](/chat-app/1.png "Optional title")
 
+
 ![Alt text](/chat-app/2.png "Optional title")
+
 
 ![Alt text](/chat-app/3.png "Optional title")
 
+
 ![Alt text](/chat-app/4.png "Optional title")
 
+
 ![Alt text](/chat-app/5.png "Optional title")
+
 
 ![Alt text](/chat-app/6.png "Optional title")
